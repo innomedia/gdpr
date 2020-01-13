@@ -1,0 +1,16 @@
+{
+    "name":"innomedia/GDPR",
+    "description": "Silverstripe 4 GDPR",
+    "authors": [
+      {
+        "name":"Innomedia AG",
+        "email": "bk@innomedia.de"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "GDPR\\": "src/"
+      }
+    }
+  }
+  

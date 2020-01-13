@@ -1,0 +1,7 @@
+---
+Name: thermotex
+---
+
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - GDPRSiteConfigExtension
