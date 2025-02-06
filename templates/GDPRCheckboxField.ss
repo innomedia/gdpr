@@ -1,6 +1,6 @@
 <div class="contactGDPR">
-    <input $AttributesHTML />
-    <label>{$SiteConfig.FormularDatenschutztext}</label>
+    <input $AttributesHTML id="contactGDPRInput" />
+    <label for="contactGDPRInput">{$SiteConfig.FormularDatenschutztext}</label>
 </div>
 <style>
     .contactGDPR
