@@ -1,10 +1,10 @@
 <?php
 use SilverStripe\Forms\FieldList;
-use SilverStripe\ORM\DataExtension;
+use SilverStripe\Core\Extension;
 use SilverStripe\Forms\HTMLEditor\HTMLEditorField;
 use SilverStripe\Forms\TextField;
 
-class GDPRSiteConfigExtension extends DataExtension
+class GDPRSiteConfigExtension extends Extension
 {
     /**
      * Database fields
